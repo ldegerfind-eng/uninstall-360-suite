@@ -1,0 +1,9 @@
+# Local reports and backups may contain usernames, paths and browser settings.
+360-scan-report*.txt
+360-removal-backup/
+360-browser-backup/
+*-log.txt
+removal-log-*.txt
+*.reg
+.env
+.env.*
